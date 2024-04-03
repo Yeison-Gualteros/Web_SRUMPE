@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web_SRUMPE/static/css/main.f855e6bc.css",
+    "main.js": "/Web_SRUMPE/static/js/main.6280d09e.js",
+    "static/js/453.b35d7c1d.chunk.js": "/Web_SRUMPE/static/js/453.b35d7c1d.chunk.js",
+    "index.html": "/Web_SRUMPE/index.html",
+    "main.f855e6bc.css.map": "/Web_SRUMPE/static/css/main.f855e6bc.css.map",
+    "main.6280d09e.js.map": "/Web_SRUMPE/static/js/main.6280d09e.js.map",
+    "453.b35d7c1d.chunk.js.map": "/Web_SRUMPE/static/js/453.b35d7c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6280d09e.js"
+  ]
+}
